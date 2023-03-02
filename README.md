@@ -1,0 +1,1 @@
+# harden-js-footer
